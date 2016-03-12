@@ -314,7 +314,7 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+ch: @darkbott
 
 ]],
     help_text = [[
@@ -515,7 +515,7 @@ AVAST Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+channel: @darkbott
 
 G00D LUCK ^_^
 ]]
