@@ -1,15 +1,15 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8'.. VERSION .. [[ 
+  return 'dark bot'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @hey_you_im_here_shut_up
   
-  Channel : @Nod32team
+  Channel : @darkbott
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  Open git : ?????? you are lucky
   
-  NOD32 VERSION 8
+ dark VERSION 2
   
   All rights reserved.
   __________________]]
