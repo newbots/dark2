@@ -318,7 +318,7 @@ ch: @darkbott
 
 ]],
     help_text = [[
-AVAST Commands list :
+daek bot Commands list :
  
 1-banhammer list ^
  
